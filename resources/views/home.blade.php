@@ -62,7 +62,7 @@
                             <h5 class="card-title">Golden Puppy</h5>
                             <div class="d-flex justify-content-between">
                                 <p class="fw-bold">$79.99</p>
-                                <button class="btn btn-primary btn-sm">Buy</button>
+                                <button class="btn btn-primary btn-sm">Purchase Now</button>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@
                             <h5 class="card-title">Cat</h5>
                             <div class="d-flex justify-content-between">
                                 <p class="fw-bold">$39.99</p>
-                                <button class="btn btn-primary btn-sm">Buy</button>
+                                <button class="btn btn-primary btn-sm">Purchase Now</button>
                             </div>
                         </div>
                     </div>
@@ -88,7 +88,7 @@
                             <h5 class="card-title">German Shepherd</h5>
                             <div class="d-flex justify-content-between">
                                 <p class="fw-bold">$99.99</p>
-                                <button class="btn btn-primary btn-sm">Buy</button>
+                                <button class="btn btn-primary btn-sm">Purchase Now</button>
                             </div>
                         </div>
                     </div>
@@ -101,7 +101,7 @@
                             <h5 class="card-title">Black Husky</h5>
                             <div class="d-flex justify-content-between">
                                 <p class="fw-bold">$230</p>
-                                <button class="btn btn-primary btn-sm">Buy</button>
+                                <button class="btn btn-primary btn-sm">Purchase Now</button>
                             </div>
                         </div>
                     </div>
@@ -114,7 +114,7 @@
                             <h5 class="card-title">White Husky</h5>
                             <div class="d-flex justify-content-between">
                                 <p class="fw-bold">$230</p>
-                                <button class="btn btn-primary btn-sm">Buy</button>
+                                <button class="btn btn-primary btn-sm">Purchase Now</button>
                             </div>
                         </div>
                     </div>
@@ -127,7 +127,7 @@
                             <h5 class="card-title">Rottweiler Puppy</h5>
                             <div class="d-flex justify-content-between">
                                 <p class="fw-bold">$139.89</p>
-                                <button class="btn btn-primary btn-sm">Buy</button>
+                                <button class="btn btn-primary btn-sm">Purchase Now</button>
                             </div>
                         </div>
                     </div>
@@ -140,7 +140,7 @@
                             <h5 class="card-title">Cat</h5>
                             <div class="d-flex justify-content-between">
                                 <p class="fw-bold">$29.99</p>
-                                <button class="btn btn-primary btn-sm">Buy</button>
+                                <button class="btn btn-primary btn-sm">Purchase Now</button>
                             </div>
                         </div>
                     </div>
@@ -153,7 +153,7 @@
                             <h5 class="card-title">Black German Shepherd</h5>
                             <div class="d-flex justify-content-between">
                                 <p class="fw-bold">$319</p>
-                                <button class="btn btn-primary btn-sm">Buy</button>
+                                <button class="btn btn-primary btn-sm">Purchase Now</button>
                             </div>
                         </div>
                     </div>
@@ -166,7 +166,7 @@
                             <h5 class="card-title">White German Shepherd</h5>
                             <div class="d-flex justify-content-between">
                                 <p class="fw-bold">$329</p>
-                                <button class="btn btn-primary btn-sm">Buy</button>
+                                <button class="btn btn-primary btn-sm">Purchase Now</button>
                             </div>
                         </div>
                     </div>
@@ -179,7 +179,7 @@
                             <h5 class="card-title">Husky</h5>
                             <div class="d-flex justify-content-between">
                                 <p class="fw-bold">$79.99</p>
-                                <button class="btn btn-primary btn-sm">Buy</button>
+                                <button class="btn btn-primary btn-sm">Purchase Now</button>
                             </div>
                         </div>
                     </div>
